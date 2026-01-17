@@ -6,6 +6,6 @@ Accept-Language: en-US,en;q=0.5
 Accept-Encoding: gzip, deflate
 Connection: keep-alive
 Referer: http://web0x00.hbtn/support
-Cookie: session=.eJxFyksKgCAURuG9_GMJmzoqWkIrULyR4AuvUhDtPaGBw_NxHqw2uMhQh_ZMAlvjmgKVIXvLOZXaoZbWm4J2Hgr8-3KRkbeU02lqhICzULNAYypRBxoj3g8vsSW4.aWZVhg.gkf9DHjKkY-Idkjk14ATVazBxmw
+Cookie: session=.eJxFyksKgCAURuG9_GMJmzoqWkIrULyR4AuvUhDtPaGBw_NxHqw2uMhQh_ZMAlvjmgKVIXvLOZXaoZbWm4J2Hgr8-3KRkbeU02lqhICzULNAYypRBxoj3g8vsSW4.aWt7yQ.N6gjQ3-dxNMJlwb54u1oPQiuTqM
 Upgrade-Insecure-Requests: 1
 Priority: u=0, i
